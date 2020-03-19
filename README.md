@@ -1,2 +1,2 @@
 # PolarCodesPython
-PolarCodes inplemented in Python, including Decoder (SC, SC-List, Fast-SC, SCFlip and BP, some early stopping method in BP decoder), crc-aided, construction method (GA,BEC, PW, HPW)
+PolarCodes inplemented in Python, including Construction Method (GA, ZW, PW, HPW), Decoder (SC, SC-List, Fast-SC, SCFlip and BP, some early stopping methods in BP decoder), CRC-Aided.
